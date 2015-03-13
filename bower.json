@@ -1,6 +1,6 @@
 {
   "name": "window.request",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "leggetter <phil@leggetter.co.uk>"
   ],
@@ -12,7 +12,7 @@
     "xhr"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/leggetter/window.fetch",
+  "homepage": "https://github.com/leggetter/window.request",
   "ignore": [
     "**/*",
     "!/dist/*",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/leggetter/window.fetch.git"
+    "url": "git://github.com/leggetter/window.request.git"
   },
   "devDependencies": {
     "fetch": "~0.7.0"
