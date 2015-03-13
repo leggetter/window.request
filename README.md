@@ -26,7 +26,7 @@ $ bower install es6-promise
 
 ## Usage
 
-The `fetch` function supports any HTTP method. Here are a couple of examples, but see the `window.fetch` polyfill [usage section](https://github.com/github/fetch#usage) for full examples.
+`request` is just an alias onto `fetch` so it supports everything that fetch does - any HTTP method. Here are a couple of examples, but see the polyfill [usage section](https://github.com/github/fetch#usage) for full examples.
 
 ### GET
 
